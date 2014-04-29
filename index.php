@@ -26,9 +26,6 @@
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=369680353102789";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<!-- <div id="vid-wrap" class="section">
-	<div id="vid-box"><iframe src="//player.vimeo.com/video/33192464?title=0&amp;byline=0&amp;portrait=0" width="569" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-</div><!-- #vid-wrap -->
 <div id="header" class="section">
 	<div class="inner">
 		<div id="logo">

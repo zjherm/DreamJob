@@ -213,7 +213,7 @@ h2 {
     display: none;
 }
 .fancybox-inner {height: 329px !important;}
-iframe {
+.fancybox-skin iframe {
     width: 560px !important;
     height: 329px !important;
 }
@@ -477,7 +477,7 @@ form .submit:hover {
         background-position: -58px -110px !important;
     }
     input#email {width: 45%; !important}
-    iframe {
+    .fancybox-skin iframe {
         width: 100% !important;
         height: auto !important;
     }
@@ -490,4 +490,10 @@ form .submit:hover {
     #demo-box > div {margin-left: 5px !important;}
     #main #demo-box {width: 335px;}
     #demo-box .alert.two {right: 16px;}
+    #demo-box .wifi {
+        display: none;
+    }
+    #main #demo-box {
+        width: 278px;
+    }
 }
